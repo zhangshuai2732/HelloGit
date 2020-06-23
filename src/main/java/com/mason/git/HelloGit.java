@@ -12,5 +12,6 @@ public class HelloGit {
 		System.out.println("二次提交");
 		System.out.println("在线更新");
 		System.out.println("SSH push");
+		System.out.println("SSH push2");
 	}
 }
