@@ -10,5 +10,6 @@ public class HelloGit {
 		System.out.println("分支添加");
 		System.out.println("在线更新");
 		System.out.println("二次提交");
+		System.out.println("在线更新");
 	}
 }
