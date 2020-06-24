@@ -17,5 +17,6 @@ public class HelloGit {
 		System.out.println("SSH test");
 		System.out.println("SSH test2");
 		System.out.println("SSH test3");
+		System.out.println("SSH elcipse");
 	}
 }
