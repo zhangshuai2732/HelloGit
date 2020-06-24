@@ -20,6 +20,5 @@ public class HelloGit {
 		System.out.println("SSH elcipse");
 		System.out.println("my update");
 		System.out.println("server update");
-		System.out.println("my update2");
 	}
 }
