@@ -13,5 +13,6 @@ public class HelloGit {
 		System.out.println("在线更新");
 		System.out.println("SSH push");
 		System.out.println("SSH push2");
+		System.out.println("http test1");
 	}
 }
