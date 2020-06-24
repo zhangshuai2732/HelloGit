@@ -17,14 +17,11 @@ public class HelloGit {
 		System.out.println("SSH test");
 		System.out.println("SSH test2");
 		System.out.println("SSH test3");
-<<<<<<< HEAD
 		System.out.println("SSH elcipse");
-=======
 		System.out.println("SSH test4");
         System.out.println("server test");
 		System.out.println("local update");
 		System.out.println("other update");
 		System.out.println("http update");
->>>>>>> branch 'master' of https://github.com/zhangshuai2732/HelloGit.git
 	}
 }
