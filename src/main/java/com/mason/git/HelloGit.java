@@ -18,6 +18,7 @@ public class HelloGit {
 		System.out.println("SSH test2");
 		System.out.println("SSH test3");
 		System.out.println("SSH test4");
+        System.out.println("server test");
 		System.out.println("local update");
 	}
 }
