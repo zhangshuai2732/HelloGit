@@ -21,5 +21,6 @@ public class HelloGit {
         System.out.println("server test");
 		System.out.println("local update");
 		System.out.println("other update");
+		System.out.println("http update");
 	}
 }
